@@ -37,3 +37,5 @@ There are four datasets including BJ, NY, CHI, and DC.
 ### Acknowledgment
 
 We construct BJ dataset through GaoDe map for road information.
+
+The data_new is the new collected data by paid api while the data is collected by hand-making.
