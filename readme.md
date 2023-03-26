@@ -33,6 +33,14 @@ There are four datasets including BJ, NY, CHI, and DC.
   number    = {1},
   volume    = {31},
 }
+@inproceedings{yuan2011driving,
+  title={Driving with knowledge from the physical world},
+  author={Yuan, Jing and Zheng, Yu and Xie, Xing and Sun, Guangzhong},
+  booktitle={Proceedings of the 17th ACM SIGKDD international conference on Knowledge discovery and data mining},
+  pages={316--324},
+  year={2011}
+}
+
 
 ### Acknowledgment
 
